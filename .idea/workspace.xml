@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1327857-eb9f-4829-b89c-798391fc2f72" name="Changes" comment="" />
+    <list default="true" id="b1327857-eb9f-4829-b89c-798391fc2f72" name="Changes" comment="commit accounts.schema.json" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,19 +32,24 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Gl5SiQgVuvJIx2DLACGqi1Ua2l" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "jdk.selected.JAVA_MODULE": "corretto-11",
-    "last_directory_selection": "C:/Users/KSI/IdeaProjects/CustomCI/src/test/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/KSI/IdeaProjects/CustomCI/src/test/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\KSI\IdeaProjects\CustomCI\" />
@@ -188,6 +193,28 @@
       <option name="presentableId" value="Default" />
       <updated>1666950336456</updated>
     </task>
+    <task id="LOCAL-00001" summary="{">
+      <created>1667167711107</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667167711107</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit accounts.schema.json">
+      <created>1667168233892</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667168233892</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit accounts.schema.json">
+      <created>1667168250246</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667168250246</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,5 +233,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="{" />
+    <MESSAGE value="commit accounts.schema.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit accounts.schema.json" />
   </component>
 </project>
