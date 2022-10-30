@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1327857-eb9f-4829-b89c-798391fc2f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b1327857-eb9f-4829-b89c-798391fc2f72" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,8 +53,8 @@
       <recent name="ru.netology" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.MobileBankApiTestV1">
-    <configuration name="MobileBankApiTestV1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts">
+    <configuration name="MobileBankApiTestV3" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -70,30 +67,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;ru.netology.rest.MobileBankApiTestV1&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="MobileBankApiTestV1.shouldReturnDemoAccounts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;ru.netology.rest.MobileBankApiTestV1.shouldReturnDemoAccounts&quot;" />
+            <option value="&quot;ru.netology.rest.MobileBankApiTestV3&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -117,6 +91,29 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;ru.netology.rest.MobileBankApiTestV4&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MobileBankApiTestV4.shouldReturnDemoAccounts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.rest.MobileBankApiTestV4.shouldReturnDemoAccounts&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -174,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.MobileBankApiTestV1" />
-        <item itemvalue="Gradle.MobileBankApiTestV1.shouldReturnDemoAccounts" />
-        <item itemvalue="Gradle.MobileBankApiTestV4" />
-        <item itemvalue="Gradle.MobileBankApiTestV5" />
+        <item itemvalue="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts" />
         <item itemvalue="Gradle.MobileBankApiTestV6" />
+        <item itemvalue="Gradle.MobileBankApiTestV5" />
+        <item itemvalue="Gradle.MobileBankApiTestV4" />
+        <item itemvalue="Gradle.MobileBankApiTestV3" />
       </list>
     </recent_temporary>
   </component>
